@@ -26,11 +26,6 @@ body {
   color: aquamarine;
 }
 
-video {
-  border: 2px solid red;
-  background-color: white;
-}
-
 .footer--copyright {
   font-size: 21px;
   color: grey;
